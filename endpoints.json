@@ -1,0 +1,13 @@
+[{
+		"name": "name1",
+		"p2p_endpoint": "host:port",
+		"api_endpoint": "http(s)://host:port",
+		"history": "true"
+	},
+	{
+		"name": "name2",
+		"p2p_endpoint": "host:port",
+		"api_endpoint": "http(s)://host:port",
+		"history": "true"
+	}
+]
