@@ -133,10 +133,8 @@
 	}	
 	{	
 		"name": "Tokenika",
-	{	"p2pEndpoint": "",
-		"apiEndpoint": "https://worbli.tokenika.io",,
-		,
-	}	,
+		"p2pEndpoint": "",
+		"apiEndpoint": "https://worbli.tokenika.io",
 		"history": "false"
 	}
-]"
+]
