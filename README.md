@@ -1,6 +1,6 @@
 This is a list of public p2p and API endpoints for the WORBLI blockchain. It is maintained by the WORBLI Foundation.
 
-If you wish to add your node to the list, edit endpoints.json and add a new JSON object with your node. The format is:
+If you wish to add your node to the list, edit endpoints.json and add a new JSON object with your node, then open a pull request. The format is:
 ```
 {
 	"name": "",
