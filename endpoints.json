@@ -118,4 +118,9 @@
 	"p2pEndpoint": "",
 	"apiEndpoint": "https://worbli.tokenika.io",
 	"history": "false"
+}, {
+	"name": "Ftpdaemon's",
+	"p2pEndpoint": "",
+	"apiEndpoint": "https://worbli.invalid.io",
+	"history": "false"
 }]
