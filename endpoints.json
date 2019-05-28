@@ -35,7 +35,12 @@
 	"history": "true"
 }, {
 	"name": "EOSphere",
-	"p2pEndpoint": "peer1-worbli.eosphere.io:9876 / peer2-worbli.eosphere.io:9876",
+	"p2pEndpoint": "peer1-worbli.eosphere.io:9876",
+	"apiEndpoint": "https://worbli.eosphere.io",
+	"history": "true"	
+}, {
+	"name": "EOSphere",
+	"p2pEndpoint": "peer2-worbli.eosphere.io:9876",
 	"apiEndpoint": "https://worbli.eosphere.io",
 	"history": "true"
 }, {
