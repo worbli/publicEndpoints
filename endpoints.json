@@ -118,4 +118,9 @@
 	"p2pEndpoint": "",
 	"apiEndpoint": "https://worbli.tokenika.io",
 	"history": "false"
+}, {
+	"name": "Todor test",
+	"p2pEndpoint": "",
+	"apiEndpoint": "https://api.worbli.io",
+	"history": "false"
 }]
