@@ -61,7 +61,7 @@
 }, {
 	"name": "GenerEOS",
 	"p2pEndpoint": "p2p.worbli.genereos.io:9876",
-	"apiEndpoint": "https://worbli.genereos.io/v1/chain/get_info",
+	"apiEndpoint": "https://worbli.genereos.io",
 	"history": "true"
 }, {
 	"name": "Worbli Sw/eden",
