@@ -50,8 +50,8 @@
 	"history": "false"
 }, {
 	"name": "EOS Cafe Block",
-	"p2pEndpoint": "p2p.worbli-mainnet.eoscalgary.io:5222",
-	"apiEndpoint": "https://api.worbli-mainnet.eoscalgary.io",
+	"p2pEndpoint": "worblip2p.eoscafeblock.com:9088",
+	"apiEndpoint": "https://worbli.eoscafeblock.com",
 	"history": "true"
 }, {
 	"name": "Dune",
