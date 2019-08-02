@@ -35,8 +35,8 @@
 	"history": "true"
 }, {
 	"name": "EOS Cafe Block",
-	"p2pEndpoint": "",
-	"apiEndpoint": "https://api.worbli-testnet.eoscalgary.io",
+	"p2pEndpoint": "worblitestnet.eoscafeblock.com:9010",
+	"apiEndpoint": "http://worblitestnet.eoscafeblock.com:8010",
 	"history": "true"
 }, {
 	"name": "GenerEOS",
