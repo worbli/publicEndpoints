@@ -1,0 +1,86 @@
+[{
+	"name": "EOS Rio",
+	"p2pEndpoint": "",
+	"apiEndpoint": "testnet.worbli.eosrio.io",
+	"history": "false"
+}, {
+	"name": "EOS Detroit",
+	"p2pEndpoint": "testnet.worbli.eosdetroit.io:1337",
+	"apiEndpoint": "http://testnet.worbli.eosdetroit.io",
+	"history": "true"
+}, {
+	"name": "EOS Metal",
+	"p2pEndpoint": "worbli-testnet.eosmetal.io:39876",
+	"apiEndpoint": "https://worbli-testnet.eosmetal.io:38889",
+	"history": "false"
+}, {
+	"name": "EOS Blocksmith",
+	"p2pEndpoint": "peer.worbli-testnet.eosblocksmith.io:9876",
+	"apiEndpoint": "https://worbli-testnet.eosblocksmith.io",
+	"history": "false"
+}, {
+	"name": "EOS Tribe",
+	"p2pEndpoint": "worbli-testnet.eostribe.io:9876",
+	"apiEndpoint": "http://worbli-testnet.eostribe.io:8888",
+	"history": "true"
+}, {
+	"name": "EOSphere",
+	"p2pEndpoint": "",
+	"apiEndpoint": "https://worbli-testnet.eosphere.io",
+	"history": "true"
+}, {
+	"name": "EOS Cannon",
+	"p2pEndpoint": "18.220.143.226:19999",
+	"apiEndpoint": "http://18.220.143.226:19998",
+	"history": "true"
+}, {
+	"name": "EOS Cafe Block",
+	"p2pEndpoint": "",
+	"apiEndpoint": "https://api.worbli-testnet.eoscalgary.io",
+	"history": "true"
+}, {
+	"name": "GenerEOS",
+	"p2pEndpoint": "p2p.testnet.worbli.genereos.io:9876",
+	"apiEndpoint": "http://testnet.worbli.genereos.io:8888/v1/chain/get_info",
+	"history": "true"
+}, {
+	"name": "Infinitybloc",
+	"p2pEndpoint": "http://172.104.209.17:8876",
+	"apiEndpoint": "http://172.104.209.17:8889",
+	"history": "true"
+}, {
+	"name": "EOS Titan",
+	"p2pEndpoint": "http://worbli.eostitan.com:19876",
+	"apiEndpoint": "http://worbli.eostitan.com:18888",
+	"history": "false"
+}, {
+	"name": "EOS Germany",
+	"p2pEndpoint": "p2p.testnet.worbli.eosgermany.online:22222",
+	"apiEndpoint": "",
+	"history": "false"
+}, {
+	"name": "EOS Nairobi",
+	"p2pEndpoint": "http://worbli-testnet.eosnairobi.io:9875",
+	"apiEndpoint": "http://worbli-testnet.eosnairobi.io:8899",
+	"history": "false"
+}, {
+	"name": "EOS Nation",
+	"p2pEndpoint": "https://worblitest.eosn.io",
+	"apiEndpoint": "https://worblitest.eosn.io",
+	"history": "false"
+}, {
+	"name": "calEOS",
+	"p2pEndpoint": "testnet.worbli.caleos.io:9877",
+	"apiEndpoint": "https://testnet.worbli.caleos.io",
+	"history": "true"
+}, {
+	"name": "EOSYS",
+	"p2pEndpoint": "http://rpc0.worbli-testnet.eosys.io:9876",
+	"apiEndpoint": "http://rpc0.worbli-testnet.eosys.io:8888",
+	"history": "false"
+}, {
+	"name": "Tokenika",
+	"p2pEndpoint": "145.239.133.188:9876",
+	"apiEndpoint": "http://145.239.133.188:8888",
+	"history": "false"
+}]
