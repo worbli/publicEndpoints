@@ -1,17 +1,22 @@
 [{
-	"name": "EOS Rio",
+	"name": "CalEOS",
 	"p2pEndpoint": "",
-	"apiEndpoint": "https://api.worbli.eosrio.io",
-	"history": "true"
+	"apiEndpoint": "https://worbli.caleos.io",
+	"history": "false"
 }, {
-	"name": "EOS Detroit",
-	"p2pEndpoint": "p2p.worbli.eosdetroit.io:1337",
-	"apiEndpoint": "https://api.worbli.eosdetroit.io",
-	"history": "true"
+	"name": "Chainrift",
+	"p2pEndpoint": "",
+	"apiEndpoint": "",
+	"history": "false"
 }, {
-	"name": "EOS Metal",
-	"p2pEndpoint": "worbliapi3.eosmetal.io:39877",
-	"apiEndpoint": "https://worbliapi.eosmetal.io",
+	"name": "eosDAC",
+	"p2pEndpoint": "",
+	"apiEndpoint": "",
+	"history": "false"
+}, {
+	"name": "EOSphere",
+	"p2pEndpoint": "",
+	"apiEndpoint": "https://worbli.eosphere.io",
 	"history": "false"
 }, {
 	"name": "EOS Blocksmith",
@@ -19,103 +24,48 @@
 	"apiEndpoint": "https://worbli-mainnet.eosblocksmith.io",
 	"history": "false"
 }, {
-	"name": "EOSIO.SG",
-	"p2pEndpoint": "",
-	"apiEndpoint": "https://worbli.eosio.sg",
-	"history": "false"
-}, {
-	"name": "EOS New York",
-	"p2pEndpoint": "",
-	"apiEndpoint": "https://api.worbli.eosnewyork.io",
-	"history": "false"
-}, {
-	"name": "EOS Tribe",
-	"p2pEndpoint": "api.worbli.eostribe.io:9876",
-	"apiEndpoint": "http://api.worbli.eostribe.io ",
-	"history": "true"
-}, {
-	"name": "EOSphere",
-	"p2pEndpoint": "peer1-worbli.eosphere.io:9876",
-	"apiEndpoint": "https://worbli.eosphere.io",
-	"history": "true"	
-}, {
-	"name": "EOSphere",
-	"p2pEndpoint": "peer2-worbli.eosphere.io:9876",
-	"apiEndpoint": "https://worbli.eosphere.io",
-	"history": "true"
-}, {
-	"name": "EOS Cannon",
-	"p2pEndpoint": "worbli.eoscannon.io:19999",
-	"apiEndpoint": "https://worbli.eoscannon.io",
-	"history": "false"
-}, {
 	"name": "EOS Cafe Block",
 	"p2pEndpoint": "worblip2p.eoscafeblock.com:9088",
 	"apiEndpoint": "https://worbli.eoscafeblock.com",
-	"history": "true"
+	"history": "false"
 }, {
-	"name": "Dune",
+	"name": "EOS Cannon",
 	"p2pEndpoint": "",
-	"apiEndpoint": "https://wbiapi.dunenode.com",
-	"history": "true"
-}, {
-	"name": "GenerEOS",
-	"p2pEndpoint": "p2p.worbli.genereos.io:9876",
-	"apiEndpoint": "https://worbli.genereos.io",
-	"history": "true"
-}, {
-	"name": "Worbli Sw/eden",
-	"p2pEndpoint": "http://p2p.worblisweden.org",
-	"apiEndpoint": "https://api.worblisweden.org",
-	"history": "true"
-}, {
-	"name": "Infinitybloc",
-	"p2pEndpoint": "72.14.183.114:9876",
-	"apiEndpoint": "https://api.worbli.infinitybloc.io",
-	"history": "false"
-}, {
-	"name": "Beyond Bitcoin",
-	"p2pEndpoint": "http://207.180.220.202:9876",
-	"apiEndpoint": "https://worbli.beyondbitcoin.io/",
-	"history": "true"
-}, {
-	"name": "HKEOS",
-	"p2pEndpoint": "http://worbli-p2p.hkeos.com",
-	"apiEndpoint": "http://worbli-api.hkeos.com",
-	"history": "false"
-}, {
-	"name": "Worbli",
-	"p2pEndpoint": "p2p-endpoint-1.worbli.io:9876",
-	"apiEndpoint": "https://endpoint-1.worbli.io",
-	"history": "false"
-}, {
-	"name": "EOS Germany",
-	"p2pEndpoint": "p2p.mainnet.worbli.eosgermany.online:22222",
 	"apiEndpoint": "",
 	"history": "false"
 }, {
 	"name": "EOS Nairobi",
-	"p2pEndpoint": "http://worbli-mainnet.eosnairobi.io:9276",
-	"apiEndpoint": "http://worbli-mainnet.eosnairobi.io:9298",
-	"history": "true"
-}, {
-	"name": "EOS Nation",
 	"p2pEndpoint": "",
-	"apiEndpoint": "https://worbli.eosn.io",
+	"apiEndpoint": "",
 	"history": "false"
 }, {
-	"name": "calEOS",
-	"p2pEndpoint": "http://testnet.worbli.caleos.io:9878",
-	"apiEndpoint": "https://worbli.caleos.io",
-	"history": "true"
-}, {
-	"name": "EOSYS",
-	"p2pEndpoint": "http://rpc0.worbli-mainnet.eosys.io:9876",
-	"apiEndpoint": "http://rpc0.worbli-mainnet.eosys.io:8888",
+	"name": "EOS Rio",
+	"p2pEndpoint": "",
+	"apiEndpoint": "",
 	"history": "false"
 }, {
-	"name": "Tokenika",
+	"name": "Worbli Sw/eden",
+	"p2pEndpoint": "p2p.worblisweden.org:9876",
+	"apiEndpoint": "https://api.worblisweden.org",
+	"history": "false"
+}, {
+	"name": "EOS Titan",
 	"p2pEndpoint": "",
-	"apiEndpoint": "https://worbli.tokenika.io",
+	"apiEndpoint": "",
+	"history": "false"
+}, {
+	"name": "EOS Tribe",
+	"p2pEndpoint": "api.worbli.eostribe.io:9876",
+	"apiEndpoint": "http://api.worbli.eostribe.io",
+	"history": "false"
+}, {
+	"name": "GenerEOS",
+	"p2pEndpoint": "p2p.worbli.genereos.io:9876",
+	"apiEndpoint": "https://worbli.genereos.io",
+	"history": "false"
+}, {
+	"name": "Worbli",
+	"p2pEndpoint": "p2p-endpoint-1.worbli.io:9876",
+	"apiEndpoint": "https://api.worbli.io",
 	"history": "false"
 }]
