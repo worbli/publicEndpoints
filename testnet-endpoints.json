@@ -53,5 +53,10 @@
 	"p2pEndpoint": "testnet.worbli.io:9876",
 	"apiEndpoint": "http://testnet.worbli.io:8888",
 	"history": "true"
-},
+}, {
+	"name": "ChainRift",
+	"p2pEndpoint": "",
+	"apiEndpoint": "https://wbitestnetpublic.chainrift.com",
+	"history": "false"
+}
 ]

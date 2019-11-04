@@ -5,8 +5,8 @@
 	"history": "false"
 }, {
 	"name": "Chainrift",
-	"p2pEndpoint": "",
-	"apiEndpoint": "",
+	"p2pEndpoint": "http://wbiboot.chainrift.com:39876",
+	"apiEndpoint": "https://wbipublic.chainrift.com",
 	"history": "false"
 }, {
 	"name": "eosDAC",
