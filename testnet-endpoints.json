@@ -35,8 +35,8 @@
 	"history": "true"
 }, {
 	"name": "EOS Titan",
-	"p2pEndpoint": "http://worbli.eostitan.com:19876",
-	"apiEndpoint": "http://worbli.eostitan.com:18888",
+	"p2pEndpoint": "worblitestnet.eostitan.com:9876",
+	"apiEndpoint": "https://worblitestnet.eostitan.com",
 	"history": "false"
 }, {
 	"name": "EOS Nairobi",

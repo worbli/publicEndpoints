@@ -50,8 +50,8 @@
 	"history": "false"
 }, {
 	"name": "EOS Titan",
-	"p2pEndpoint": "",
-	"apiEndpoint": "",
+	"p2pEndpoint": "worbli.eostitan.com:9876",
+	"apiEndpoint": "https://worbli.eostitan.com",
 	"history": "false"
 }, {
 	"name": "EOS Tribe",
