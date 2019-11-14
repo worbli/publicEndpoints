@@ -20,9 +20,9 @@
 	"history": "true"
 }, {
 	"name": "EOS Cannon",
-	"p2pEndpoint": "18.220.143.226:19999",
-	"apiEndpoint": "http://18.220.143.226:19998",
-	"history": "true"
+	"p2pEndpoint": "worbli-testnet.eoscannon.io:19989",
+	"apiEndpoint": "http://worbli-testnet.eoscannon.io:19988",
+	"history": "false"
 }, {
 	"name": "EOS Cafe Block",
 	"p2pEndpoint": "worblitestnet.eoscafeblock.com:9010",
