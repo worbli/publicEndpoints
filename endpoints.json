@@ -30,8 +30,8 @@
 	"history": "false"
 }, {
 	"name": "EOS Cannon",
-	"p2pEndpoint": "",
-	"apiEndpoint": "",
+	"p2pEndpoint": "worbli.eoscannon.io:19999",
+	"apiEndpoint": "https://worbli-mainnet.eoscannon.io",
 	"history": "false"
 }, {
 	"name": "EOS Nairobi",
