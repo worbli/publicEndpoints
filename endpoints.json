@@ -10,8 +10,8 @@
 	"history": "false"
 }, {
 	"name": "eosDAC",
-	"p2pEndpoint": "",
-	"apiEndpoint": "",
+	"p2pEndpoint": "worbli.eosdac.io:39876",
+	"apiEndpoint": "https://worbli.eosdac.io",
 	"history": "false"
 }, {
 	"name": "EOSphere",
