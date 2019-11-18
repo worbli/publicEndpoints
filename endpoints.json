@@ -45,7 +45,7 @@
 	"history": "false"
 }, {
 	"name": "Worbli Sw/eden",
-	"p2pEndpoint": "p2p.worblisweden.org:9876",
+	"p2pEndpoint": "p2p.worblisweden.org:9976",
 	"apiEndpoint": "https://api.worblisweden.org",
 	"history": "false"
 }, {
