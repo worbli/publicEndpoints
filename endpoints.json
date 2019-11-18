@@ -40,8 +40,8 @@
 	"history": "false"
 }, {
 	"name": "EOS Rio",
-	"p2pEndpoint": "",
-	"apiEndpoint": "",
+	"p2pEndpoint": "worbli.eosrio.io:8042",
+	"apiEndpoint": "https://worbli.eosrio.io",
 	"history": "false"
 }, {
 	"name": "Worbli Sw/eden",
