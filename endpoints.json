@@ -35,8 +35,8 @@
 	"history": "false"
 }, {
 	"name": "EOS Nairobi",
-	"p2pEndpoint": "",
-	"apiEndpoint": "",
+	"p2pEndpoint": "p2p-worbli-mn.eosnairobi.io:9926",
+	"apiEndpoint": "api-worbli-mn.eosnairobi.io:9928",
 	"history": "false"
 }, {
 	"name": "EOS Rio",
